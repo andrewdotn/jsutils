@@ -1,0 +1,9 @@
+{
+  "workspaces": {
+    "packages": [
+      "fancypath",
+      "runnables"
+    ]
+  },
+  "private": true
+}
